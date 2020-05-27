@@ -1,0 +1,3 @@
+[submodule "docs/cookbook"]
+	path = docs/cookbook
+	url = git@github.com:nih-cfde/the-fair-cookbook.git
